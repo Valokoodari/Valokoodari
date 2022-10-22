@@ -17,3 +17,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Valokoodari&show_icons=1&count_private=1&theme=github_dark" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valokoodari&layout=compact&theme=github_dark" height="160px"/>
 </a>
+
+---
+  
+The best way to contact me is through Discord on [my server](https://discord.gg/nzJgMjt) or privately to [Valokoodari#1337](https://discordapp.com/users/158112911363932160).
