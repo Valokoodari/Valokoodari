@@ -20,4 +20,16 @@ Here are some ideas to get you started:
 
 ---
   
-The best way to contact me is on [my Discord server](https://discord.gg/nzJgMjt).
+The best way to contact me is on [my Discord server](https://discord.gg/nzJgMjt).  
+
+<details>
+  <summary>💻 Homelab</summary>
+  
+  - Raspberry Pi 4 8 GB
+  - Raspberry Pi 4 4 GB
+    - Dokku
+  - Microsoft Project Volterra (Windows Dev Kit 2023)
+    - Farming Simulator 22 server
+    - Two Minecraft servers in WSL
+  
+</details>
