@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ---
   
-The best way to contact me is through Discord on [my server](https://discord.gg/nzJgMjt) or privately to [Valokoodari#1337](https://discordapp.com/users/158112911363932160).
+The best way to contact me is on [my Discord server](https://discord.gg/nzJgMjt).
