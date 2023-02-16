@@ -26,8 +26,8 @@ The best way to contact me is on [my Discord server](https://discord.gg/nzJgMjt)
   <summary>💻 Homelab</summary>
   
   - Raspberry Pi 4 8 GB
-  - Raspberry Pi 4 4 GB
-    - Dokku
+    - Dokku (PaaS)
+    - Nginx (reverse proxy)
   - Microsoft Project Volterra (Windows Dev Kit 2023)
     - Farming Simulator 22 server
     - Two Minecraft servers in WSL
