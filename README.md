@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ---
   
-The best way to contact me is on [my Discord server](https://discord.gg/nzJgMjt).  
+The best way to contact me is on [my Discord server](https://discord.gg/nzJgMjt) or the email shown on my profile page. Please only use Finnish or English.  
 
 <details>
   <summary>💻 Homelab</summary>
