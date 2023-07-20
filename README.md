@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 </a>
 
 ---
+
+[![](https://dcbadge.vercel.app/api/server/nzJgMjt)](https://discord.gg/nzJgMjt)
   
-The best way to contact me is on [my Discord server](https://discord.gg/nzJgMjt) or the email shown on my profile page. Please only use Finnish or English.  
+The best ways to contact me are my Discord server (link above) or the email shown on my profile page. Please only use Finnish or English.  
 
 <details>
   <summary>💻 Homelab</summary>
