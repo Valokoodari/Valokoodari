@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ---
 
 [![](https://dcbadge.vercel.app/api/server/nzJgMjt)](https://discord.gg/nzJgMjt)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/Valokoodari)
   
 The best ways to contact me are my Discord server (link above) or the email shown on my profile page. Please only use Finnish or English.  
 
